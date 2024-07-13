@@ -1,3 +1,3 @@
-#this is new repo
+this is new repo
 <br>
-#Author is Pavan
+Author is Pavan
